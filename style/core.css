@@ -78,11 +78,11 @@ a:hover {
 }
 
 /******** Custom menu ********/
-#custommenu .yui3-menuitem-active {background-color:#CCCCCC;}
+#custommenu .yui3-menuitem-active {background-color:#198384;}
 
 #custommenu {
     background-color: #FFFFFF;
-    border: 1px #CCCCCC solid;
+    border: 1px #198384 solid;
 }
 
 .yui3-skin-sam #page .yui3-menu-label,
@@ -100,7 +100,7 @@ a:hover {
 .yui3-skin-sam #page .yui3-menu-label.yui3-menu-label-menuvisible,
 .yui3-skin-sam #page .yui3-menuitem-active .yui3-menuitem-content {
     color: #000;
-    background-color: #CCCCCC;
+    background-color: #198384;
     border: 1px solid #B3B3B3 !important;
 }
 
@@ -128,7 +128,7 @@ a:hover {
 /******** Dock ********/
 #dock {
     background-color: #FFFFFF;
-    border-color: #CCCCCC;
+    border-color: #198384;
 }
 
 #dock .dockedtitle h2 {
@@ -136,7 +136,7 @@ a:hover {
 }
 
 #dockeditempanel .dockeditempanel_content {
-    border-color: #CCCCCC;
+    border-color: #198384;
     box-shadow: 3px 3px 3px #E6E6E6;
 }
 
