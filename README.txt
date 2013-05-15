@@ -7,10 +7,6 @@ aim is to have this theme fully compatible with all versions of
 Moodle 2.
 
 ********** Updates ***********
-12/06/12
-- Made this a child theme of Unitec Minimal and stripped out any
-  unnecessary code that wasn't directly related to changing colours
-  from parent theme.
-
 15/05/13
 - Theme is born.
+- Testing git.
