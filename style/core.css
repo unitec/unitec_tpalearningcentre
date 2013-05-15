@@ -199,9 +199,18 @@ a:hover {
 }
 
 .navbar a {
-    color: #444444;
+    color: #198384;
 }
 
 .navbar a:hover {
-    color: #999999;
+    color: #000000;
+}
+
+/******** Login info *******/
+.headermenu .logininfo a {
+    color: #198384;
+}
+
+.headermenu .logininfo a:hover {
+    color: #000000;
 }
