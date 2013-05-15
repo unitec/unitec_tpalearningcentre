@@ -1,6 +1,6 @@
 /******** Core ********/
 a {
-    color: #444444;
+    color: #198384;
 }
 
 a:hover {
@@ -24,17 +24,21 @@ a:hover {
 }
 
 /******** Blocks ********/
+.block {
+    border-radius: 10px;
+}
+
 .block .content a {
-    color: #444444;
+    color: #198384;
 }
 
 .block .content a:hover {
-    color: #999999;
+    color: #000000;
 }
 
 /** Borders and backgrounds **/
 .block {
-    border-color: #CCCCCC;
+    border-color: #198384;
     box-shadow: 3px 3px 3px #E6E6E6;
 }
 
@@ -44,18 +48,33 @@ a:hover {
 }
 
 /******** Course ********/
+/** All course boxes **/
+.course-content .main {
+    border-radius: 10px;
+}
+
 /**  Highlighted course box **/
 .course-content .current {
-    background-color: #7F7F7F;
-    border-color: #7F7F7F;
+    background-color: #198384;
+    border-color: #198384;
     color: #FFFFFF;
+    border-radius: 10px;
 }
 
 /** Formatting for hidden course box **/
 .course-content .hidden {
     opacity: 0.5;
     border-color: #CCCCCC;
+    border-radius: 10px;
     color: #CCCCCC;
+}
+
+.course-content .section .activity:hover {
+    background-color: transparent;
+}
+
+.course-content .topics h3.sectionname {
+    display: none;
 }
 
 /******** Custom menu ********/

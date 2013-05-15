@@ -9,4 +9,9 @@ Moodle 2.
 ********** Updates ***********
 15/05/13
 - Theme is born.
-- Testing git.
+- Blocks and topic boxes have a pronounced rounded border
+- Topic numbers and topic headings are gone
+- Link colour is green
+- No new icon for forums as icons will update automatically with next
+  Moodle upgrade.
+- No slider added as would require constant updating by code maintainer.
